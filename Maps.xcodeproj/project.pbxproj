@@ -7,10 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3832B6A01A9501FE0057D22A /* Green-map-marker-icon-1106182840.png in Resources */ = {isa = PBXBuildFile; fileRef = 3832B6981A9501FE0057D22A /* Green-map-marker-icon-1106182840.png */; };
+		3832B6A11A9501FE0057D22A /* info.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3832B6991A9501FE0057D22A /* info.jpg */; };
+		3832B6A21A9501FE0057D22A /* Map-Marker-Flag--Chartreuse.png in Resources */ = {isa = PBXBuildFile; fileRef = 3832B69A1A9501FE0057D22A /* Map-Marker-Flag--Chartreuse.png */; };
+		3832B6A31A9501FE0057D22A /* MapMarker_Marker_Outside_Pink.png in Resources */ = {isa = PBXBuildFile; fileRef = 3832B69B1A9501FE0057D22A /* MapMarker_Marker_Outside_Pink.png */; };
+		3832B6A41A9501FE0057D22A /* MapMarker_PushPin2__Pink.png in Resources */ = {isa = PBXBuildFile; fileRef = 3832B69C1A9501FE0057D22A /* MapMarker_PushPin2__Pink.png */; };
+		3832B6A51A9501FE0057D22A /* pushpin.png in Resources */ = {isa = PBXBuildFile; fileRef = 3832B69D1A9501FE0057D22A /* pushpin.png */; };
+		3832B6A61A9501FE0057D22A /* pink_flag.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3832B69E1A9501FE0057D22A /* pink_flag.jpg */; };
+		3832B6A71A9501FE0057D22A /* information.png in Resources */ = {isa = PBXBuildFile; fileRef = 3832B69F1A9501FE0057D22A /* information.png */; };
+		383E82651A95202C002E5C1A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 383E82641A95202C002E5C1A /* Main.storyboard */; };
+		383E826E1A9527BC002E5C1A /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 383E826D1A9527BC002E5C1A /* HelpViewController.m */; };
+		385C04761A8263E50027DB3B /* Game-Icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 385C04751A8263E50027DB3B /* Game-Icon.jpg */; };
+		3876D1E11A819E9600468C1E /* MapTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3876D1E01A819E9600468C1E /* MapTableViewController.m */; };
 		5236A68D1A6999BF0007A232 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5236A68C1A6999BF0007A232 /* main.m */; };
 		5236A6901A6999BF0007A232 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5236A68F1A6999BF0007A232 /* AppDelegate.m */; };
-		5236A6931A6999BF0007A232 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5236A6921A6999BF0007A232 /* ViewController.m */; };
-		5236A6961A6999BF0007A232 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5236A6941A6999BF0007A232 /* Main.storyboard */; };
 		5236A6981A6999BF0007A232 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5236A6971A6999BF0007A232 /* Images.xcassets */; };
 		5236A69B1A6999BF0007A232 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5236A6991A6999BF0007A232 /* LaunchScreen.xib */; };
 		5236A6A71A6999BF0007A232 /* MapsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5236A6A61A6999BF0007A232 /* MapsTests.m */; };
@@ -27,14 +37,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3832B6981A9501FE0057D22A /* Green-map-marker-icon-1106182840.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Green-map-marker-icon-1106182840.png"; path = "../Green-map-marker-icon-1106182840.png"; sourceTree = "<group>"; };
+		3832B6991A9501FE0057D22A /* info.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = info.jpg; path = ../info.jpg; sourceTree = "<group>"; };
+		3832B69A1A9501FE0057D22A /* Map-Marker-Flag--Chartreuse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Map-Marker-Flag--Chartreuse.png"; path = "../Map-Marker-Flag--Chartreuse.png"; sourceTree = "<group>"; };
+		3832B69B1A9501FE0057D22A /* MapMarker_Marker_Outside_Pink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MapMarker_Marker_Outside_Pink.png; path = ../MapMarker_Marker_Outside_Pink.png; sourceTree = "<group>"; };
+		3832B69C1A9501FE0057D22A /* MapMarker_PushPin2__Pink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = MapMarker_PushPin2__Pink.png; path = ../MapMarker_PushPin2__Pink.png; sourceTree = "<group>"; };
+		3832B69D1A9501FE0057D22A /* pushpin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pushpin.png; path = ../pushpin.png; sourceTree = "<group>"; };
+		3832B69E1A9501FE0057D22A /* pink_flag.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pink_flag.jpg; path = ../pink_flag.jpg; sourceTree = "<group>"; };
+		3832B69F1A9501FE0057D22A /* information.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = information.png; path = ../information.png; sourceTree = "<group>"; };
+		383E82641A95202C002E5C1A /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		383E826C1A9527BC002E5C1A /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpViewController.h; sourceTree = "<group>"; };
+		383E826D1A9527BC002E5C1A /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpViewController.m; sourceTree = "<group>"; };
+		385C04751A8263E50027DB3B /* Game-Icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Game-Icon.jpg"; sourceTree = "<group>"; };
+		3876D1DF1A819E9600468C1E /* MapTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapTableViewController.h; sourceTree = "<group>"; };
+		3876D1E01A819E9600468C1E /* MapTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapTableViewController.m; sourceTree = "<group>"; };
 		5236A6871A6999BF0007A232 /* Maps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Maps.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5236A68B1A6999BF0007A232 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5236A68C1A6999BF0007A232 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		5236A68E1A6999BF0007A232 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5236A68F1A6999BF0007A232 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		5236A6911A6999BF0007A232 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		5236A6921A6999BF0007A232 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		5236A6951A6999BF0007A232 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5236A6971A6999BF0007A232 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		5236A69A1A6999BF0007A232 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		5236A6A01A6999BF0007A232 /* MapsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MapsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -60,6 +81,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3832B6A81A9502050057D22A /* images */ = {
+			isa = PBXGroup;
+			children = (
+				3832B6981A9501FE0057D22A /* Green-map-marker-icon-1106182840.png */,
+				3832B6991A9501FE0057D22A /* info.jpg */,
+				3832B69A1A9501FE0057D22A /* Map-Marker-Flag--Chartreuse.png */,
+				3832B69B1A9501FE0057D22A /* MapMarker_Marker_Outside_Pink.png */,
+				3832B69C1A9501FE0057D22A /* MapMarker_PushPin2__Pink.png */,
+				3832B69D1A9501FE0057D22A /* pushpin.png */,
+				3832B69E1A9501FE0057D22A /* pink_flag.jpg */,
+				3832B69F1A9501FE0057D22A /* information.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 		5236A67E1A6999BF0007A232 = {
 			isa = PBXGroup;
 			children = (
@@ -83,11 +119,13 @@
 			children = (
 				5236A68E1A6999BF0007A232 /* AppDelegate.h */,
 				5236A68F1A6999BF0007A232 /* AppDelegate.m */,
-				5236A6911A6999BF0007A232 /* ViewController.h */,
-				5236A6921A6999BF0007A232 /* ViewController.m */,
-				5236A6941A6999BF0007A232 /* Main.storyboard */,
-				5236A6971A6999BF0007A232 /* Images.xcassets */,
+				383E826C1A9527BC002E5C1A /* HelpViewController.h */,
+				383E826D1A9527BC002E5C1A /* HelpViewController.m */,
+				3876D1DF1A819E9600468C1E /* MapTableViewController.h */,
+				3876D1E01A819E9600468C1E /* MapTableViewController.m */,
+				383E82641A95202C002E5C1A /* Main.storyboard */,
 				5236A6991A6999BF0007A232 /* LaunchScreen.xib */,
+				5236A6971A6999BF0007A232 /* Images.xcassets */,
 				5236A68A1A6999BF0007A232 /* Supporting Files */,
 			);
 			path = Maps;
@@ -96,6 +134,8 @@
 		5236A68A1A6999BF0007A232 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3832B6A81A9502050057D22A /* images */,
+				385C04751A8263E50027DB3B /* Game-Icon.jpg */,
 				5236A68B1A6999BF0007A232 /* Info.plist */,
 				5236A68C1A6999BF0007A232 /* main.m */,
 			);
@@ -199,8 +239,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5236A6961A6999BF0007A232 /* Main.storyboard in Resources */,
+				3832B6A11A9501FE0057D22A /* info.jpg in Resources */,
+				3832B6A21A9501FE0057D22A /* Map-Marker-Flag--Chartreuse.png in Resources */,
+				385C04761A8263E50027DB3B /* Game-Icon.jpg in Resources */,
+				3832B6A71A9501FE0057D22A /* information.png in Resources */,
+				3832B6A01A9501FE0057D22A /* Green-map-marker-icon-1106182840.png in Resources */,
+				383E82651A95202C002E5C1A /* Main.storyboard in Resources */,
 				5236A69B1A6999BF0007A232 /* LaunchScreen.xib in Resources */,
+				3832B6A41A9501FE0057D22A /* MapMarker_PushPin2__Pink.png in Resources */,
+				3832B6A61A9501FE0057D22A /* pink_flag.jpg in Resources */,
+				3832B6A31A9501FE0057D22A /* MapMarker_Marker_Outside_Pink.png in Resources */,
+				3832B6A51A9501FE0057D22A /* pushpin.png in Resources */,
 				5236A6981A6999BF0007A232 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,9 +268,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5236A6931A6999BF0007A232 /* ViewController.m in Sources */,
+				3876D1E11A819E9600468C1E /* MapTableViewController.m in Sources */,
 				5236A6901A6999BF0007A232 /* AppDelegate.m in Sources */,
 				5236A68D1A6999BF0007A232 /* main.m in Sources */,
+				383E826E1A9527BC002E5C1A /* HelpViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,14 +294,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		5236A6941A6999BF0007A232 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5236A6951A6999BF0007A232 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		5236A6991A6999BF0007A232 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -412,6 +454,7 @@
 				5236A6AC1A6999BF0007A232 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5236A6AD1A6999BF0007A232 /* Build configuration list for PBXNativeTarget "MapsTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +463,7 @@
 				5236A6AF1A6999BF0007A232 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
